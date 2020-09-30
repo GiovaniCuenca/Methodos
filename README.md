@@ -8,7 +8,8 @@ ou [NPM](https://docs.npmjs.com/getting-started/)
 ** Estamos atualmente utilizando um servidor local para simular uma solicitação ao backend com:
 [json-server](https://github.com/typicode/json-server) e pode ser acessado abrindo o arquivo 'server.json' previamente fornecido pela empresa; **
 
-Para rodar o projeto basta abrir o CMD ou BASH ou outro terminal de sua preferência e rode os seguintes comandos:
+Para rodar o projeto faça download ou clone o projeto, abra algum terminal de sua preferência e rode os seguintes comandos:
+
 Utilizando Yarn
 ### `yarn`
 ### `yarn server`
@@ -23,7 +24,7 @@ Aplicação:
 Abra [http://localhost:3000](http://localhost:3000) para visualizar o projeto no navegador.
 
 Server.json:
-Open [http://localhost:3333](http://localhost:3333) para visualizar o server no navegador.
+Abra [http://localhost:3333](http://localhost:3333) para visualizar o server no navegador.
 
 ### Considerações
 - Projeto iniciado no dia 29/09/2020 exatamente às 18:20;
