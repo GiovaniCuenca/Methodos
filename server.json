@@ -1,0 +1,142 @@
+{
+    "data": {
+        "produtos": [{
+                "codigo": 1,
+                "descricao": "JBL Duet BT",
+                "marca": "JBL",
+                "color": "preto",
+                "imagens": [{
+                        "link": "https://www.jbl.com.br/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw72490c39/JBL_duetbt_03_black-high-1606x1606px.jpg?sw=626&sh=626&sm=fit&sfrm=png"
+                    },
+                    {
+                        "link": "https://www.jbl.com.br/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw7fe954f4/JBL_duetbt_02_black-1606x1606px.jpg?sw=626&sh=626&sm=fit&sfrm=png"
+                    },
+                    {
+                        "link": "https://www.jbl.com.br/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw6e8ae432/remote_black_cut-1606x1606px.jpg?sw=626&sh=626&sm=fit&sfrm=png"
+                    }
+                ],
+                "dimensoes": {
+                    "peso": 0.2,
+                    "altura": 16.00,
+                    "largura": 19.00,
+                    "profundidade": 3.5
+                },
+                "martketplaces": [{
+                        "empresa": "Casas Bahia",
+                        "lojas": [{
+                                "unidade": "Campinas - Centro",
+                                "preco": 149.90,
+                                "qtd_vendida": 5,
+                                "estoque": 10
+                            },
+                            {
+                                "unidade": "Santa Barbara - Jd Santa Luzia",
+                                "preco": 159.90,
+                                "qtd_vendida": 2,
+                                "estoque": 3
+                            }
+                        ]
+                    },
+                    {
+                        "empresa": "Magazine Luiza",
+                        "lojas": [{
+                            "unidade": "Campinas - Centro",
+                            "preco": 169.00,
+                            "qtd_vendida": 15,
+                            "estoque": 4
+                        }]
+                    }
+                ]
+            },
+            {
+                "codigo": 2,
+                "descricao": "JBL Quantum Duo",
+                "marca": "JBL",
+                "color": "preto",
+                "imagens": [{
+                        "link": "https://www.jbl.com.br/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw9229a76a/JBL_QUANTUM_DUO_HERO_V2_011_Main_x2.png"
+                    },
+                    {
+                        "link": "https://www.jbl.com.br/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw776cfaf6/JBL_QUANTUM_DUO_BACK_013_Main.png"
+                    },
+                    {
+                        "link": "https://www.jbl.com.br/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwd582d4d2/JBL_QUANTUM_DUO_LEFT_016_Main_x2.png"
+                    }
+                ],
+                "dimensoes": {
+                    "peso": 1.2,
+                    "altura": 35.00,
+                    "largura": 20.00,
+                    "profundidade": 15.5
+                },
+                "martketplaces": [{
+                        "empresa": "Amazon",
+                        "lojas": [{
+                            "unidade": "Centro de distribuição",
+                            "preco": 1449.90,
+                            "qtd_vendida": 5,
+                            "estoque": 10
+                        }]
+                    },
+                    {
+                        "empresa": "Magazine Luiza",
+                        "lojas": [{
+                            "unidade": "Campinas - Centro",
+                            "preco": 1269.00,
+                            "qtd_vendida": 15,
+                            "estoque": 4
+                        }]
+                    }
+                ]
+            },
+            {
+                "codigo": 3,
+                "descricao": "Fone de Ouvido Monitor Audio Technica PRO ATH-M20x",
+                "marca": "Audio Technica",
+                "color": "preto",
+                "imagens": [{
+                        "link": "https://images.tcdn.com.br/img/img_prod/552543/fone_de_ouvido_monitor_audio_technica_pro_ath_m20x_2569_1_20200702121653.jpg"
+                    },
+                    {
+                        "link": "https://images.tcdn.com.br/img/img_prod/552543/fone_de_ouvido_monitor_audio_technica_pro_ath_m20x_2569_2_20200702121653.jpg"
+                    },
+                    {
+                        "link": "https://images.tcdn.com.br/img/img_prod/552543/fone_de_ouvido_monitor_audio_technica_pro_ath_m20x_2569_4_20200702121654.jpg"
+                    }
+                ],
+                "dimensoes": {
+                    "peso": 0.35,
+                    "altura": 22.00,
+                    "largura": 17.00,
+                    "profundidade": 4.5
+                },
+                "martketplaces": [{
+                        "empresa": "Casas Bahia",
+                        "lojas": [{
+                            "unidade": "Campinas - Centro",
+                            "preco": 689.90,
+                            "qtd_vendida": 5,
+                            "estoque": 4
+                        }]
+                    },
+                    {
+                        "empresa": "Magazine Luiza",
+                        "lojas": [{
+                                "unidade": "Campinas - Centro",
+                                "preco": 629.00,
+                                "qtd_vendida": 1,
+                                "estoque": 2
+                            },
+                            {
+                                "unidade": "Campinas - Ouro Verde",
+                                "preco": 669.00,
+                                "qtd_vendida": 0,
+                                "estoque": 3
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
